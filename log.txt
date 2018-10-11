@@ -1,0 +1,42 @@
+ Spotify
+artist      album_name  song_name  preview_url                                                                                                
+----------  ----------  ---------  -----------------------------------------------------------------------------------------------------------
+Teddy Afro  Ethiopia    Marakiye   https://p.scdn.co/mp3-preview/beae73892c39ecb502a5ae55e10b9b5b7fa3bd4c?cid=5b6ea0ad4fce48b0b9a26eb4452420d6
+Teddy Afro  Ethiopia    Marakiye   https://p.scdn.co/mp3-preview/f94f0638ee66a86be64b310d2106e35fd44fdc50?cid=5b6ea0ad4fce48b0b9a26eb4452420d6
+
+
+ ====================== ====================== ====================== ====================== ======================
+* Title :Difret
+* IMDB Rating :6.8
+* Rotten Tomatoes :86%
+* Year :23 Oct 2015
+* Country :Ethiopia, USA
+* Actors :Meron Getnet, Tizita Hagere, Abel Abebe, Shitaye Abraha
+* Language :Amharic
+* Movie Plot :A young lawyer travels to an Ethiopian village to represent Hirut, a 14-year-old girl who shot her would-be husband as he and others were practicing one of the nation's oldest traditions: abduction into marriage.
+ ====================== ====================== ====================== ====================== ======================
+
+ Artist:maroon5
+ Venue name: XL Center
+ Venue location: Hartford
+ Date of Event: 10/10/2018
+
+
+ Artist:h.e.r
+ Venue name: Echostage
+ Date of Event: 10/25/2018
+ Venue location: Washington
+ Spotify
+artist      album_name                           song_name                                preview_url                                                                                                
+----------  -----------------------------------  ---------------------------------------  -----------------------------------------------------------------------------------------------------------
+Drake       Scorpion                             In My Feelings                           null                                                                                                       
+Drake       Scorpion                             Nonstop                                  null                                                                                                       
+BlocBoy JB  Look Alive (feat. Drake)             Look Alive (feat. Drake)                 https://p.scdn.co/mp3-preview/4c9c1f93e4b6032679d772a0a8c3c28cef5a42ae?cid=5b6ea0ad4fce48b0b9a26eb4452420d6
+Lil Baby    Harder Than Ever                     Yes Indeed                               null                                                                                                       
+Drake       Scorpion                             God's Plan                               null                                                                                                       
+Drake       Scorpion                             Nice For What                            null                                                                                                       
+Lil Baby    Drip Harder                          Never Recover (Lil Baby & Gunna, Drake)  null                                                                                                       
+Drake       Scorpion                             Mob Ties                                 null                                                                                                       
+Drake       Scorpion                             I'm Upset                                null                                                                                                       
+2 Chainz    Bigger Than You feat. Drake & Quavo  Bigger Than You (feat. Drake & Quavo)    null                                                                                                       
+
