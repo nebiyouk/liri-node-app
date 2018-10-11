@@ -18,17 +18,17 @@ To run LIRI, you will need Bash, Node, and npm.
 <h3>Demos - Spotify This Song</h3>
 Type node liri.js spotify-this-song "SONG NAME" to find the artist and album information.
 
-<img src = "assets/images/spotifySong.png" width:"300px" height:"150px">
+<img src = "assets/images/spotifySong.png" width:"300" height:"150">
 
 <h3>Demos - Movie This</h3>
 Type node liri.js movie-this<strong> "MOVIE NAME" </strong> to find the movie information.
 
-<img src = "assets/images/Movie.png" width:"300px" height:"150px">
+<img src = "assets/images/Movie.png" width:"300" height:"150">
 
 <h3>Demos - Concert This</h3>
 Type node liri.js concert-this <strong>"ARTIST NAME"</strong> to find the concert information.
 
-<img src = "assets/images/concert.png" width:"300px" height:"150px">
+<img src = "assets/images/concert.png" width:"300" height:"150">
 
 
 
