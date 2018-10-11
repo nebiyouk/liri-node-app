@@ -12,7 +12,7 @@ To run LIRI, you will need Bash, Node, and npm.
 <li>In Bash, type node liri.js to start the program. Please read below for the options.</li>
 </ol>
 
-<img src = "images/options.png" width:"300px" height:"150px">
+<img src = "../images/options.png" width:"300px" height:"150px">
 
 <strong>Options = movie-this, concert-this or spotify-this-song.</strong>
 <h3>Demos - Spotify This Song</h3>
