@@ -9,14 +9,14 @@ To run LIRI, you will need Bash, Node, and npm.
 <li>In Bash, type git clone git@ github.com/nebiyouk/liri-node-app to download LIRI.</li>
 <li>Then, type cd liri-node-app; npm install to download the required packages.</li>
 <li>Change the file name of keys_template.js to keys.js. Open this file to add your API keys for Bandsintown, Spotify, and OMDB.</li>
-<li>In Bash, type node liri.js to start the program. Please read below for the options.</li>
+<li>In Bash, type node liri.js & your options to start the program. Please read below for the options.</li>
 </ol>
+<strong>Options = movie-this, concert-this or spotify-this-song.</strong>
 
 <img src="assets/images/options.png" width="320" height="150">
 
-<strong>Options = movie-this, concert-this or spotify-this-song.</strong>
 <h3>Demos - Spotify This Song</h3>
-Type node liri.js spotify-this-song "SONG NAME" to find the artist and album information.
+Type node liri.js spotify-this-song <strong>"SONG NAME"</strong> to find the artist and album information.
 
 <img src="assets/images/spotifySong.png" width="320" height="150">
 
